@@ -1,2 +1,14 @@
-# 16_Bit_Wallace_Tree
-Structural 8-bit Wallace Tree multiplier written in Verilog and tested on Vivado for Zynq-7000. Features full partial-product generation, multi-level compressor tree, final addition stage, and a timing-characterization module. The repo includes STA timing summary, worst-path analysis, resource utilization, XDC constraints, and waveforms.
+# 8x8 unsigned Wallace Tree Multiplier (Verilog, Zynq-7000)
+
+A fully structural 8-bit Wallace Tree multiplier designed in Verilog and implemented on the Zynq-7000 FPGA.  
+This project focuses on:
+
+- Partial-product generation  
+- Multi-level Wallace reduction tree  
+- Final carry-propagate addition  
+- Static Timing Analysis (STA): setup, hold, slack  
+- Critical path characterization  
+- FPGA implementation & constraints  
+- Testbench-based functional verification  
+
+Includes full timing summary, worst-path report, utilization report, elaborated RTL diagrams, and timing diagrams.
