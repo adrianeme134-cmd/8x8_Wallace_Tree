@@ -17,4 +17,6 @@ WHS: +0.425 ns
 Critical path: ~1.212 ns
 ~109 MHz theoretical Fmax
 
+These results are with DONT_TOUCH so VIVADO would not optimize away the hierarchy
+
 Includes full timing summary, worst-path report, utilization report, elaborated RTL diagrams, and timing diagrams.
