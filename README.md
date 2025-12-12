@@ -1,4 +1,4 @@
-# 8x8 Wallace Tree Multiplier (Verilog, Zynq-7000)
+# Unsigned 8x8 Wallace Tree Multiplier (Verilog, Zynq-7000)
 
 A fully structural 8x8 bit Wallace Tree multiplier designed in Verilog and implemented on the Zynq-7000 FPGA.  
 This project focuses on:
